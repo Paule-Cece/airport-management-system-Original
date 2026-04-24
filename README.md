@@ -1,4 +1,3 @@
-# airport-management-system-Original
 # Airport Management System — Java OOP
 
 A comprehensive Airport Management System built with Java, demonstrating core OOP principles:
